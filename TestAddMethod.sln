@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAddMethod", "TestAddMethod\TestAddMethod.csproj", "{7BCD0027-F6A4-484B-BAD7-D4348A1953F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAddMethodLibrary", "TestAddMethodLibrary\TestAddMethodLibrary.csproj", "{5D34AD05-FB20-4D5A-A02E-BE1D12C6532A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7BCD0027-F6A4-484B-BAD7-D4348A1953F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BCD0027-F6A4-484B-BAD7-D4348A1953F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BCD0027-F6A4-484B-BAD7-D4348A1953F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D34AD05-FB20-4D5A-A02E-BE1D12C6532A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D34AD05-FB20-4D5A-A02E-BE1D12C6532A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D34AD05-FB20-4D5A-A02E-BE1D12C6532A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D34AD05-FB20-4D5A-A02E-BE1D12C6532A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
